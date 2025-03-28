@@ -9,40 +9,40 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Milton Morales's Personal Blog
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: About me and my hobbies # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A personal blog that provides information about myself and any of my personal projects
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://miltonm89.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: miltonm89 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: miltonm89 # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Milton Morales
+  email: milton.morales@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/miltonm89 # change to your Twitter homepage
+    - https://github.com/miltonm89 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/miltonmorales89
 
 # Site Verification Settings
 webmaster_verifications:
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+#baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
